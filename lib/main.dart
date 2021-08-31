@@ -11,6 +11,10 @@ class PrimeiroApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       title: "Gerador de palavras",
+      // Todo: Alterando o tema do app
+      theme: ThemeData(
+        primaryColor: Colors.deepPurple,
+      ),
       home: RandomWords(),
     );
   }
@@ -43,7 +47,7 @@ class _RandomWordsState extends State<RandomWords> {
         return _criarLinha(_sugestoes[index]);
       });
   }
-  
+
   Widget _criarLinha(WordPair palavra) {
     final jaSalvo = _salvo.contains(palavra);
     return ListTile(
