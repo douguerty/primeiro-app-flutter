@@ -1,6 +1,8 @@
-# meuapp
+# primeiro-app-flutter
 
-Primeiro projeto em Flutter
+Primeiro projeto em Flutter para estudo seguindo a documentação
+
+### ATENÇÃO: Pode haver erros nos comentários pois foi escrito conforme o MEU entendimento
 
 ## Getting Started
 
