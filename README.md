@@ -2,7 +2,7 @@
 
 Primeiro projeto em Flutter para estudo seguindo a documentação
 
-### ATENÇÃO: Pode haver erros nos comentários pois foi escrito conforme o MEU entendimento
+### ATENÇÃO: Oos comentários foram escritos conforme o MEU entendimento
 
 ## Getting Started
 
